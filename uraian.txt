@@ -1,0 +1,29 @@
+1. Jelaskan Cara Kerja Servo
+Jawab:
+Servo bekerja seperti pengendali yang mengubah sinyal dari Arduino menjadi gerakan motor, sesuai dengan instruksi yang diberikan. Ketika Arduino mengirimkan sinyal khusus ke servo melalui kabel, servo menggerakkan motor sesuai dengan sinyal tersebut sehingga memungkinkan untuk mengontrol posisi sudutnya.
+
+2. Jelaskan Cara Kerja LED
+Jawab:
+LED berfungsi seperti lampu yang bisa dinyalakan atau dimatikan oleh Arduino. Ketika LEDdisambungkan ke pin Arduino dan menulis kode untuk memberi instruksi pada Arduino untuk memberi listrik ke LED. Ketika Arduino mengirimkan listrik ke LED maka LED akan menyala,sedangkan ketika listrik diputuskan maka LED akan mati. LED juga dapat berguna sebagai indikator.
+
+3. Berikan contoh penggunaan Pemrograman Sistem Tertana pada Kehidupan sehari-hari
+Jawab:
+- Saklar Smart Switch untuk pengontrol lampu Jarak jauh
+- Lampu Smart Lamp yang dapat dikontrol menggunakan aplikasi
+- Gate Parkir otomatis yang menggunakan NFC reader
+- Smart Door Lock yang menggunakan pin, NFC, atau face unlock
+- Lampu jalan otomatis yang dapat nyala otomatis Ketika kondisi gelap
+- Finger print reader untuk absensi mahasiswa
+- Vending Machine di public space untuk membeli minum
+- Face Recognation untuk boarding di stasiun
+
+4. Jelaskan project yang akan kelompok kamu buat pada mata kuliah pemrograman system tertanam
+Jawab:
+Sistem manajemen perpustakaan dengan RFID dan Barcode
+Dengan system ini nantinya memungkinkan pengguna untuk meminjam buku dengan mudah dengan men-scan kartu RFID mereka dan barcode pada buku yang ingin dipinjam. Selain itu, memungkinkan penjaga perpustakaan untuk melacak buku yang sedang dipinjam dan yang tersedia sehingga membantu dalam pengelolaan koleksi buku di perpustakaan. Hal tersebut karena sistem secara otomatis untuk mencatat data peminjam dan pengembalian buku, termasuk siapa yang meminjam, buku apa yang dipinjam, kapan buku dipinjam, dan kapan buku itu dikembalikan.
+Komponen yang dibutuhkan kira-kira:
+- Reader/Scanner RFID / NFC
+- Tag RFID / NFC Card
+- Printer Barcode
+- Scanner Barcode
+
